@@ -1,0 +1,16 @@
+.table td, .table th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.input-group {
+    margin:20px 0;
+}
+
+.table .svg {
+    height: 150px;
+}
+.table td:first-of-type, .table td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
